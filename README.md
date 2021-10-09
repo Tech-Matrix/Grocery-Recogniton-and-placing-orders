@@ -1,5 +1,9 @@
 #Ice Breaker Project : Scanmart
 
+Video Link: https://drive.google.com/drive/folders/1p6UIyd1uQh9eCCpmvZtZAFplHAmh-yYv
+
+medium blog: https://medium.com/newolf-society/scanmart-scan-and-order-fab7a6134cc6
+
 ![scanmart](C:\Users\Vidip\OneDrive\Documents\ice breaker\final2.png)
 
 Scanmart is a website that helps you order items by clicking its respective picture.
